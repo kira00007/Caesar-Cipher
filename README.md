@@ -1,4 +1,4 @@
-# Caesar-Ciphter
+# Caesar-Cipher
 
 This is a jupyter script was encoding text in caesar cipher and also decoding the text.
 The Encoding part is pretty straight forward. You have to enter a text and a key and the encoded text will be returned.
